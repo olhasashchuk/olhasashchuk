@@ -1,5 +1,12 @@
 ### Hi, I'm Olha! 👋
 
+[LinkedIN] {https://www.linkedin.com/in/olha-sashchuk/}
+I'm a beginner Front-End Developer with a passion for studying new technologies and expanding my skills in web development for the last 2 years.
+
+:mailbox: Reach me out!
+![Static Badge](https://img.shields.io/badge/LinkedIN-%230A66C2?style=flat&logo=linkedin&logoColor=white&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Folha-sashchuk%2F)
+![Static Badge](https://img.shields.io/badge/olha.sashchuk%40gmail.com-%23FFFFFF?style=flat&logo=gmail&logoColor=%23EA4335)
+
 <!--
 **olhasashchuk/olhasashchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
