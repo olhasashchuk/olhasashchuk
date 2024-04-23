@@ -5,7 +5,7 @@ Hello! 👋 Welcome to my GitHub page.<br><br>I'm Olha, a dedicated and self-mot
 <br>
 🌱 I'm interested in contributing to open-source projects and collaborating with other developers.
 <br>
-📫 You can reach me via [![Mail Badge](https://img.shields.io/badge/Gmail-%23FFFFFF?logo=gmail&logoColor=%23EA4335)](mailto:olha.sashchuk@gmail.com)
+📫 You can reach me via [email](mailto:your.email@example.com)
 
 
 ## 🌐 Socials:
